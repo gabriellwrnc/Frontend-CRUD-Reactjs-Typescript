@@ -1,7 +1,8 @@
 # Project Preview
 
 - Project opened for the first time
-![Screenshot (611)](https://user-images.githubusercontent.com/90816980/227835164-4b614f61-21a0-4396-9bbd-4693069e4e60.png)
+![Screenshot (612)](https://user-images.githubusercontent.com/90816980/227836445-54edeeb5-bdcb-4d76-a06e-6bcb8ebfa4ae.png)
+
 
 - Create Employee when clicking "Add Employee" Button
 ![Screenshot (613)](https://user-images.githubusercontent.com/90816980/227835272-8a63addb-984f-45df-a859-467622941eab.png)
