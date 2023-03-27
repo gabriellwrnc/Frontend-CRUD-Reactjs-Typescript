@@ -18,6 +18,7 @@
 ![Screenshot (620)](https://user-images.githubusercontent.com/90816980/227835749-63c145a7-cfb5-4a9c-8388-41b0b93d4795.png)
 ![Screenshot (621)](https://user-images.githubusercontent.com/90816980/227835751-2a56d584-4db9-4232-b63f-e06b6555df16.png)
 ![Screenshot (622)](https://user-images.githubusercontent.com/90816980/227835760-a9d7b269-788f-45d9-8265-2531d9fc5cb1.png)
+![Screenshot (623)](https://user-images.githubusercontent.com/90816980/227835881-d1a6d005-4bb3-4c59-8bd4-71ff01a23d2b.png)
 
 - Search Employee when filling "Search Field" Input
 ![Screenshot (623)](https://user-images.githubusercontent.com/90816980/227835881-d1a6d005-4bb3-4c59-8bd4-71ff01a23d2b.png)
